@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "d13f",
+      "name": "ring",
+      "price": "550",
+      "desc": "is a ring"
+    },
+    {
+      "id": "8ded",
+      "name": "bag",
+      "price": 899,
+      "desc": "this is a first product"
+    },
+    {
+      "id": "418e",
+      "name": "sofa",
+      "price": 8899,
+      "desc": "this is a sofa"
+    }
+  ]
+}
